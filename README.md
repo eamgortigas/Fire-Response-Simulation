@@ -16,5 +16,4 @@ All trucks are assumed to have an output of 175 gallons per minute, the most com
 
 Project by:
 
-Armand De Leon
-Erika Ortigas
+Armand De Leon | Erika Ortigas
